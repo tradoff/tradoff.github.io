@@ -109,4 +109,4 @@
 ## nm-connection-editor
 
 # 命令行配置代理network proxy
-## gsettings
+## gsettings set org.gnome.system.proxy mode 'manual'
